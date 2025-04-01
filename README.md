@@ -1,4 +1,5 @@
- Hi there  Allan kigen.
+ Hi there  Allan kigen, a passionate software developer 
+Currently working on Frontend development
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@allankybz) 
